@@ -11,6 +11,8 @@
 		B5FEF5352975C2960039AE4B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FEF5342975C2960039AE4B /* ContentView.swift */; };
 		B5FEF5372975C2980039AE4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5FEF5362975C2980039AE4B /* Assets.xcassets */; };
 		B5FEF53A2975C2980039AE4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5FEF5392975C2980039AE4B /* Preview Assets.xcassets */; };
+		B5FEF5412975C5350039AE4B /* MovieDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FEF5402975C5350039AE4B /* MovieDetails.swift */; };
+		B5FEF5432975C5480039AE4B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FEF5422975C5480039AE4B /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		B5FEF5342975C2960039AE4B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B5FEF5362975C2980039AE4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5FEF5392975C2980039AE4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B5FEF5402975C5350039AE4B /* MovieDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetails.swift; sourceTree = "<group>"; };
+		B5FEF5422975C5480039AE4B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				B5FEF5322975C2960039AE4B /* homework_sc_module_43App.swift */,
 				B5FEF5342975C2960039AE4B /* ContentView.swift */,
+				B5FEF5402975C5350039AE4B /* MovieDetails.swift */,
+				B5FEF5422975C5480039AE4B /* Model.swift */,
 				B5FEF5362975C2980039AE4B /* Assets.xcassets */,
 				B5FEF5382975C2980039AE4B /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				B5FEF5352975C2960039AE4B /* ContentView.swift in Sources */,
 				B5FEF5332975C2960039AE4B /* homework_sc_module_43App.swift in Sources */,
+				B5FEF5412975C5350039AE4B /* MovieDetails.swift in Sources */,
+				B5FEF5432975C5480039AE4B /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
