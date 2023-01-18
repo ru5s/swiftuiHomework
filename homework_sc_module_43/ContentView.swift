@@ -75,6 +75,7 @@ struct ContentView: View {
             
         }
         .tint(Color.white)
+        .preferredColorScheme(.dark)
         
     }
         
